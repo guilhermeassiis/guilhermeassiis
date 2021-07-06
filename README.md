@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @whasdrf
+- 👋 Hi, I’m @guilhermeassiis
 - 👀 I’m interested in ... Data Science, machine learning and AI.
 - 🌱 I’m currently learning ... Python and Object Orientation.
 - 💞️ I’m looking to collaborate on ... Data Science
